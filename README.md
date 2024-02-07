@@ -13,6 +13,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamlaramoura&layout=compact&hide_border=true&title_color=8f00e2&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<!-- links -->
+<div align="center"> 
+<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lara-moura-b504331ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
 <!-- contador de visitas -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
