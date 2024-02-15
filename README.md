@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f189e&height=120&section=header"/>
   
 <!-- mensagem -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8768a8&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Lara+Moura)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Lara+Moura)](https://git.io/typing-svg)
 
 <!-- info -->
 <div align="center">  
