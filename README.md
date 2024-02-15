@@ -11,7 +11,7 @@
 </div>
 
 <!-- gráfico -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamlaramoura&bg_color=0d1117&color=c48cf4&line=6f189e&point=c48cf4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamlaramoura&bg_color=0d1117&color=FFFFFF&line=6f189e&point=c48cf4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Studying at the moment:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,python,js&perline=13)](#)
