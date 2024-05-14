@@ -14,10 +14,12 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamlaramoura&bg_color=0d1117&color=FFFFFF&line=6f189e&point=c48cf4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Studying at the moment:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,python,js&perline=13)](#)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=md,git,github,vscode&perline=13)](#)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- contador de visitas -->
 <div align="center">
